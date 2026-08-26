@@ -1,112 +1,145 @@
-# Hi, I'm Desire 👋  
-Computer Science Student • University of Łódź
+#👋 Hi, I'm Desire 
+2nd-Year Computer Science Student • University of Łódź (POLAND)
 
-I’m building a strong foundation in software engineering and object‑oriented programming through hands‑on projects, deep understanding, and step‑by‑step mastery.  
-I enjoy learning how things work internally — from memory management in C++ to file‑processing pipelines in Python.
+I’m a motivated computer science student focused on building a strong foundation in software engineering, object‑oriented programming, and practical problem‑solving.
+My academic development is driven by curiosity: I love understanding how things work internally — memory, algorithms, data structures, and system behavior.
 
----
+I’m actively building a clean, professional portfolio of C++ and Python projects that reflect real engineering practices.
 
-## 🔧 Technologies & Skills
+🎓 Academic Status & Development
+BSc Computer Science, University of Łódź
 
-### 💻 C++
-- OOP (constructors, destructors, const‑correctness)
-- Rule of Three and Rule of Five
-- Dynamic memory management
-- Custom data structures (Vec class, deep copy, move semantics)
-- Algorithms (reverse, rotate, sum, avg, contains)
-- File I/O and parsing
+Strong performance in OOP, algorithms, data structures, networking basics, and software engineering
 
-### 🐍 Python
-- Jupyter notebooks
-- File processing and data analysis
-- Turtle graphics
-- Modular scripting
+Preparing for Erasmus+ in Nancy, France (2026/2027)
 
-### 🛠 Tools
-- Git and GitHub (branching, history rewriting, repo cleanup)
-- Visual Studio, VS Code
-- Anaconda, Jupyter
+Demonstrated growth in:
 
----
+modular design
 
-## 📂 Featured Projects
+clean architecture
 
-### 🧱 C++ OOP — oopLec
-A full suite of C++ OOP exercises, including:
-- custom dynamic array (Vec)
-- deep copy, assignment operator, move semantics
-- safe pop, reverse, rotate, sum, avg
-- complete professional test suite
+test‑driven development
 
-### 🐍 Python OOP — python‑oop
-A collection of Python notebooks and scripts:
-- file processing
-- turtle graphics
-- object‑oriented exercises
+Git/GitHub workflows
 
-### 🧪 Software Engineering — software‑engineering
-Parsing and analysis tasks:
-- spam detection
-- HTML processing
-- text scanning
+numerical computing
 
----
+file‑processing pipelines
 
-## 📊 Current Project — Statistics Calculator (C++)
-A professional‑style data‑processing tool that:
-- reads numbers from a file  
-- computes count, sum, average, min, max, median, variance, standard deviation  
-- prints results  
-- automatically saves a report  
-- optionally saves to a custom filename  
+I’m steadily improving my ability to design maintainable, intentional software — step by step, project by project.
 
-This project strengthens:
-- file I/O  
-- algorithm design  
-- numerical stability  
-- modular architecture  
+🔧 Technical Skills
+💻 C++ (Core Strength)
+Object‑oriented programming (inheritance, polymorphism, abstractions)
 
----
+Rule of Three / Rule of Five
 
-## ℹ️ Additional Information
+Dynamic memory management
 
-### 🔭 I’m currently working on
-- A C++ statistics calculator with full reporting  
-- Improving my C++ Vec class with modern C++ features  
-- Building a clean, professional GitHub portfolio  
+Custom data structures (Vec class, dynamic arrays)
 
-### 🌱 I’m currently learning
-- Modern C++ (move semantics, RAII, smart pointers)  
-- Better project structure and modular design  
-- File‑processing pipelines and data analysis  
+Algorithms (reverse, rotate, sum, avg, contains)
 
-### 👯 I’m looking to collaborate on
-- Intermediate‑friendly C++ or Python projects  
-- Tools involving file processing or data analysis  
-- Educational or open‑source learning projects  
+File I/O, parsing, reporting
 
-### 🤔 I’m looking for help with
-- Improving my C++ design patterns  
-- Writing cleaner, more maintainable code  
-- Understanding larger project architecture  
+Clean architecture & modular design
 
-### 💬 Ask me about
-- C++ OOP fundamentals  
-- Dynamic arrays and memory management  
-- Git and GitHub workflows  
-- Python scripting and notebooks  
+🐍 Python
+File processing & data analysis
 
-### 📫 How to reach me
-- GitHub: github.com/roslindesiredziele-hash  
-- Email: roslindesiredziele@gmail.com
+Jupyter notebooks
 
-### ⚡ Fun fact
-I enjoy understanding how things work internally — not just using tools, but learning the mechanics behind them.
+Turtle graphics
 
----
+Modular scripting
 
-## 🎯 My Goal
-To grow into a developer who writes clear, intentional, and maintainable software — and to keep improving step by step.
+🛠 Tools & Engineering Practices
+Git & GitHub (branching, history rewriting, repo extraction, cleanup)
 
-Thanks for visiting my profile!
+Visual Studio, VS Code
 
+Anaconda, Jupyter
+
+Problem‑solving & debugging
+
+Documentation & project structuring
+
+📂 Major Projects (C++ & Python)
+
+🧱 Language
+A modular C++ framework modeling natural and programming languages through structured abstractions.
+View Repository
+
+📦 Vector
+Custom dynamic vector class with memory management, operator overloading, and full test suite.
+View Repository
+
+🗺️ CitiesDistance
+City‑to‑city distance calculations using geographic abstractions.
+View Repository
+
+🚚 CVRPTW (Current Project)
+A full implementation of the Capacitated Vehicle Routing Problem with Time Windows, featuring:
+
+time‑window constraints
+
+capacity constraints
+
+route optimization logic
+
+realistic logistics scenarios
+
+clean OOP architecture
+
+This project strengthens my skills in:
+
+algorithm design
+
+optimization
+
+constraint handling
+
+modular architecture
+
+real‑world engineering problem solving
+
+View Repository
+
+🌐 IPV4Address
+IPv4 parsing, validation, and manipulation using clean OOP abstractions.
+View Repository
+
+
+🌱 Interests
+C++ internals (memory, RAII, move semantics)
+
+Algorithms & optimization
+
+Data structures
+
+File‑processing pipelines
+
+Networking basics
+
+Digital design (Inkscape)
+
+PC gaming & performance optimization
+
+Building clean, maintainable software
+
+🤝 Collaboration & Goals
+👯 I’m open to collaborating on
+C++ or Python learning‑friendly projects
+
+Tools involving data analysis or file processing
+
+Educational or open‑source projects
+
+🎯 My long‑term goal
+To grow into a developer who writes clear, intentional, maintainable software — and keeps improving step by step.
+
+📫 Contact
+GitHub: github.com/roslindesiredziele-hash
+
+Email: roslindesiredziele@gmail.com
