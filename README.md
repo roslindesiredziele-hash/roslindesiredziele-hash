@@ -1,145 +1,94 @@
-#👋 Hi, I'm Desire 
-2nd-Year Computer Science Student • University of Łódź (POLAND)
+## Computer Science Student at the University of Łódź
 
-I’m a motivated computer science student focused on building a strong foundation in software engineering, object‑oriented programming, and practical problem‑solving.
-My academic development is driven by curiosity: I love understanding how things work internally — memory, algorithms, data structures, and system behavior.
+I am a Computer Science student interested in software engineering, algorithms, systems programming, and full-stack development. Most of my projects focus on understanding how software works internally and on implementing solutions from first principles rather than relying exclusively on existing frameworks and abstractions.
 
-I’m actively building a clean, professional portfolio of C++ and Python projects that reflect real engineering practices.
+My work currently spans modern C++, TypeScript, Angular, Express.js, SQLite, and Python. I enjoy building projects that combine practical functionality with clean design, testing, and maintainability.
 
-🎓 Academic Status & Development
-BSc Computer Science, University of Łódź
+### Areas of Interest
 
-Strong performance in OOP, algorithms, data structures, networking basics, and software engineering
+- Modern C++
+- Data structures and algorithms
+- Full-stack web development
+- REST API design
+- Database systems
+- Software architecture
+- Automated testing
+- Object-oriented design
 
-Preparing for Erasmus+ in Nancy, France (2026/2027)
+### Technologies
 
-Demonstrated growth in:
+- C++
+- TypeScript
+- Angular
+- Express.js
+- SQLite
+- Python
+- Git and GitHub
+- Vitest
+- Supertest
 
-modular design
+### Selected Projects
 
-clean architecture
+#### Person Management System
 
-test‑driven development
+A full-stack application built with Angular, Express.js, SQLite, and TypeScript. The project implements a complete CRUD workflow for managing person records and includes automated integration tests and Faker-based sample data generation.
 
-Git/GitHub workflows
+Repository: https://github.com/roslindesiredziele-hash/person-management-system
 
-numerical computing
+#### Vec
 
-file‑processing pipelines
+An educational implementation of a dynamic array in C++ featuring manual memory management, copy and move semantics, capacity growth, bounds checking, and a standalone test suite.
 
-I’m steadily improving my ability to design maintainable, intentional software — step by step, project by project.
+Repository: https://github.com/roslindesiredziele-hash/Vec
 
-🔧 Technical Skills
-💻 C++ (Core Strength)
-Object‑oriented programming (inheritance, polymorphism, abstractions)
+#### CVRPTW
 
-Rule of Three / Rule of Five
+An implementation of the Capacitated Vehicle Routing Problem with Time Windows. The project focuses on route optimization, constraint handling, and modular problem-solving approaches.
 
-Dynamic memory management
+Repository: https://github.com/roslindesiredziele-hash/CVRPTW
 
-Custom data structures (Vec class, dynamic arrays)
+#### Language
 
-Algorithms (reverse, rotate, sum, avg, contains)
+A C++ project exploring language modelling through structured abstractions and object-oriented design.
 
-File I/O, parsing, reporting
+Repository: https://github.com/roslindesiredziele-hash/Language
 
-Clean architecture & modular design
+#### IPv4Address
 
-🐍 Python
-File processing & data analysis
+A project focused on parsing, validating, and manipulating IPv4 addresses using clean object-oriented abstractions.
 
-Jupyter notebooks
+Repository: https://github.com/roslindesiredziele-hash/IPv4Address
 
-Turtle graphics
+#### CitiesDistance
 
-Modular scripting
+A geographic distance calculator built around reusable components and clear separation of responsibilities.
 
-🛠 Tools & Engineering Practices
-Git & GitHub (branching, history rewriting, repo extraction, cleanup)
+Repository: https://github.com/roslindesiredziele-hash/CitiesDistance
 
-Visual Studio, VS Code
+#### Algorithms Sorting Benchmark
 
-Anaconda, Jupyter
+A performance-analysis project comparing multiple sorting algorithms and measuring execution behavior across different datasets and input sizes.
 
-Problem‑solving & debugging
+Repository: https://github.com/roslindesiredziele-hash/Algorithms-Sorting-Benchmark
 
-Documentation & project structuring
+### What I'm Currently Learning
 
-📂 Major Projects (C++ & Python)
+- Full-stack application architecture
+- Angular ecosystem
+- Database design and persistence
+- Integration and API testing
+- Modern C++ idioms and best practices
+- Algorithm implementation and optimization
 
-🧱 Language
-A modular C++ framework modeling natural and programming languages through structured abstractions.
-View Repository
+### Current Goals
 
-📦 Vector
-Custom dynamic vector class with memory management, operator overloading, and full test suite.
-View Repository
+- Continue building production-style projects
+- Improve software architecture and design skills
+- Expand full-stack development experience
+- Prepare for Erasmus+ studies in Nancy (2026/2027)
+- Develop a strong portfolio of well-tested, maintainable software
 
-🗺️ CitiesDistance
-City‑to‑city distance calculations using geographic abstractions.
-View Repository
+### Contact
 
-🚚 CVRPTW (Current Project)
-A full implementation of the Capacitated Vehicle Routing Problem with Time Windows, featuring:
-
-time‑window constraints
-
-capacity constraints
-
-route optimization logic
-
-realistic logistics scenarios
-
-clean OOP architecture
-
-This project strengthens my skills in:
-
-algorithm design
-
-optimization
-
-constraint handling
-
-modular architecture
-
-real‑world engineering problem solving
-
-View Repository
-
-🌐 IPV4Address
-IPv4 parsing, validation, and manipulation using clean OOP abstractions.
-View Repository
-
-
-🌱 Interests
-C++ internals (memory, RAII, move semantics)
-
-Algorithms & optimization
-
-Data structures
-
-File‑processing pipelines
-
-Networking basics
-
-Digital design (Inkscape)
-
-PC gaming & performance optimization
-
-Building clean, maintainable software
-
-🤝 Collaboration & Goals
-👯 I’m open to collaborating on
-C++ or Python learning‑friendly projects
-
-Tools involving data analysis or file processing
-
-Educational or open‑source projects
-
-🎯 My long‑term goal
-To grow into a developer who writes clear, intentional, maintainable software — and keeps improving step by step.
-
-📫 Contact
-GitHub: github.com/roslindesiredziele-hash
-
-Email: roslindesiredziele@gmail.com
+- GitHub: https://github.com/roslindesiredziele-hash
+- Email: roslindesiredziele@gmail.com
