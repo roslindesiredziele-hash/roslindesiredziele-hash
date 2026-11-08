@@ -77,7 +77,7 @@ Features:
 - Complexity and performance analysis
 - Custom vector implementation
 
-**Tech:** C++, Python, Algorithms
+**Tech:** C, C++, Python, Algorithms
 
 🔗 Repository:  
 https://github.com/roslindesiredziele-hash/Algorithms-Sorting-Benchmark
@@ -94,7 +94,7 @@ Custom dynamic array implementation featuring:
 - Bounds checking
 - Custom container behavior
 
-**Tech:** C, C++, Data Structures
+**Tech:** C++, Data Structures
 
 🔗 Repository:  
 https://github.com/roslindesiredziele-hash/Vector
