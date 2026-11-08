@@ -103,7 +103,7 @@ Performance-analysis project implementing and benchmarking:
 
 ---
 
-### 📦 Vec
+### 📦 Vector
 
 Custom dynamic array implementation built to explore memory management, iterator support, value semantics, and container design in modern C++.
 
