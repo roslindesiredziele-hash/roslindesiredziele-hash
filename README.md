@@ -97,7 +97,7 @@ Custom dynamic array implementation featuring:
 **Tech:** C, C++, Data Structures
 
 🔗 Repository:  
-https://github.com/roslindesiredziele-hash/Vec
+https://github.com/roslindesiredziele-hash/Vector
 
 ---
 
