@@ -94,7 +94,7 @@ Custom dynamic array implementation featuring:
 - Bounds checking
 - Custom container behavior
 
-**Tech:** C++, Data Structures
+**Tech:** C, C++, Data Structures
 
 🔗 Repository:  
 https://github.com/roslindesiredziele-hash/Vec
