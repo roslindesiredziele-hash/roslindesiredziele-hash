@@ -166,7 +166,7 @@ https://github.com/roslindesiredziele-hash/CitiesDistance
 
 ## Current Goals
 
-- Build production-quality softwarepment experience
+- Build production-quality software-development experience
 - Obtain a software engineering internship
 - Prepare for Erasmus+ studies in Nancy (2026/2027)
 
