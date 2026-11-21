@@ -1,30 +1,41 @@
 # Hi, I'm Desire Roslin Dziele 👋
 
-### Computer Science Student | C++ | Algorithms | Full-Stack Development
+### Computer Science Student | Software Engineering | Modern C++ | Algorithms | Full-Stack Development
 
-Computer Science student at the University of Łódź with interests in software engineering, modern C++, algorithms, optimization, systems programming, and full-stack web development.
+Computer Science student at the University of Łódź focused on software engineering, algorithm design, optimization, and modern C++ development.
 
-My projects range from custom C++ containers and algorithm benchmarking to Angular/Express applications and combinatorial optimization problems. I enjoy building software from first principles and analyzing how implementation choices affect correctness, maintainability, and performance.
+My work spans algorithm implementation and performance analysis, custom data structures, optimization problems, and full-stack web applications. I am particularly interested in understanding how implementation decisions affect correctness, maintainability, scalability, and performance.
 
 ---
 
-## Tech Stack
+## Skills Summary
 
-### Languages
+### Programming Languages
 
 - C++
 - TypeScript
 - Python
 - SQL
 
+### Software Engineering
+
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Software Architecture
+- Design Patterns
+- Performance Analysis
+- Complexity Analysis
+- Test-Driven Development
+
 ### Full-Stack Development
 
 - Angular
 - Express.js
-- SQLite
 - REST APIs
+- SQLite
+- Client-Server Architecture
 
-### Testing & Tooling
+### Testing & DevOps
 
 - Catch2
 - Vitest
@@ -32,8 +43,14 @@ My projects range from custom C++ containers and algorithm benchmarking to Angul
 - CMake
 - CTest
 - GitHub Actions
+- Continuous Integration
+
+### Tools
+
 - Git
 - GitHub
+- Visual Studio Code
+- Matplotlib
 
 ---
 
@@ -42,12 +59,12 @@ My projects range from custom C++ containers and algorithm benchmarking to Angul
 - Software Engineering
 - Modern C++
 - Data Structures & Algorithms
+- Optimization
 - Systems Programming
 - Full-Stack Development
-- Software Architecture
-- Optimization Problems
-- Performance Analysis
+- Performance Engineering
 - Automated Testing
+- Software Architecture
 
 ---
 
@@ -57,7 +74,7 @@ My projects range from custom C++ containers and algorithm benchmarking to Angul
 
 Full-stack CRUD application built with Angular, Express.js, SQLite, and TypeScript.
 
-### Features
+### Highlights
 
 - RESTful API design
 - Database persistence
@@ -76,21 +93,20 @@ Full-stack CRUD application built with Angular, Express.js, SQLite, and TypeScri
 
 Custom dynamic array implementation developed to explore memory management, value semantics, iterator support, and container design in modern C++.
 
-### Features
+### Highlights
 
 - Dynamic capacity growth
 - Deep copy semantics
 - Move semantics
 - Iterator support
-- Automated testing with Catch2
-- Build automation with CMake and CTest
-- CI with GitHub Actions
+- Automated testing
+- CI/CD pipeline
 
 ### Statistics
 
 - 34 test cases
 - 84 assertions
-- Automated CI pipeline
+- GitHub Actions CI
 
 **Tech:** C++, Catch2, CMake, CTest, GitHub Actions
 
@@ -101,21 +117,21 @@ Custom dynamic array implementation developed to explore memory management, valu
 
 ## 📊 Algorithm Benchmarking & Analysis
 
-A collection of projects focused on empirical algorithm evaluation, performance benchmarking, and complexity analysis.
+A collection of projects focused on empirical algorithm evaluation, benchmarking, and complexity analysis.
 
 ### Included Projects
 
 - Algorithms Sorting Benchmark
-- Weighted Coin Change DP
 - QuickSort Pivot Analysis
+- Weighted Coin Change DP
 - Interval Scheduling (Greedy Algorithms)
 
-### Topics
+### Highlights
 
 - Dynamic Programming
 - Greedy Algorithms
 - Sorting Algorithms
-- Performance Benchmarking
+- Runtime Benchmarking
 - Complexity Analysis
 - Data Visualization
 
@@ -124,24 +140,24 @@ A collection of projects focused on empirical algorithm evaluation, performance 
 🔗 Repositories:
 
 - <https://github.com/roslindesiredziele-hash/Algorithms-Sorting-Benchmark>
-- <https://github.com/roslindesiredziele-hash/weighted-coin-change-dp>
 - <https://github.com/roslindesiredziele-hash/quicksort-pivot-analysis>
+- <https://github.com/roslindesiredziele-hash/weighted-coin-change-dp>
 
 ---
 
 ## 🚚 CVRPTW
 
-Implementation of the Capacitated Vehicle Routing Problem with Time Windows (CVRPTW), focusing on route optimization, scheduling constraints, and combinatorial optimization techniques.
+Implementation of the Capacitated Vehicle Routing Problem with Time Windows (CVRPTW), focusing on route optimization, scheduling constraints, and combinatorial optimization.
 
-This project serves as the foundation for a future bachelor's thesis focused on optimization algorithms and routing systems.
+This project is being developed as the foundation for future research and an optimization-focused bachelor's thesis.
 
-### Features
+### Highlights
 
-- Route optimization
+- Route construction
 - Time-window constraints
 - Vehicle capacity constraints
-- Combinatorial optimization
-- Research-oriented design
+- Optimization techniques
+- Combinatorial problem solving
 
 **Tech:** C++, Optimization Algorithms
 
@@ -176,23 +192,20 @@ Geographic distance calculator implementing coordinate-based distance calculatio
 
 ## 🧩 Language Evolution Simulator
 
-Object-oriented programming project exploring abstraction, inheritance, polymorphism, and virtual dispatch through language modelling.
+Object-oriented programming project exploring inheritance, abstraction, polymorphism, and virtual dispatch through language modelling.
 
 **Tech:** C++, OOP, Catch2, CMake
-
-🔗 Repository:  
-<https://github.com/roslindesiredziele-hash>
 
 ---
 
 ## Currently Learning
 
 - Advanced C++
-- Generic Programming & Templates
+- Generic Programming
 - Software Architecture
 - Design Patterns
 - Angular Ecosystem
-- Backend Development with Express.js
+- Backend Development
 - Optimization Algorithms
 - Routing & Scheduling Problems
 
@@ -201,19 +214,19 @@ Object-oriented programming project exploring abstraction, inheritance, polymorp
 ## Current Goals
 
 - Obtain a Software Engineering internship
-- Continue building portfolio-quality C++ projects
-- Expand full-stack development experience
-- Develop CVRPTW into a bachelor's-project-scale optimization system
-- Prepare for Erasmus+ studies in Nancy (2026/2027)
+- Build production-quality software projects
+- Expand full-stack development expertise
+- Develop CVRPTW into a thesis-scale optimization system
+- Continue deepening knowledge of algorithms and modern C++
 
 ---
 
 ## Contact
 
-📧 **Email:**  
+📧 **Email**  
 roslindesiredziele@gmail.com
 
-💻 **GitHub:**  
+💻 **GitHub**  
 <https://github.com/roslindesiredziele-hash>
 
 ---
