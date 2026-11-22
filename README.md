@@ -2,18 +2,13 @@
 
 ### Computer Science Student | Software Engineering | C++ | Full-Stack Development | Algorithms & Optimization
 
-Computer Science student at the University of Łódź with a strong interest in software engineering, systems programming, algorithm design, and optimization.
+## Professional Profile
 
-I build projects that combine computer science fundamentals with practical software engineering practices, including automated testing, continuous integration, performance analysis, and modern development workflows.
+Computer Science student at the University of Łódź with a strong foundation in software engineering, data structures, algorithms, and modern C++ development. Experienced in designing and implementing custom software systems, building full-stack web applications, and developing algorithmic solutions with a focus on correctness, performance, and maintainability.
 
-My current focus areas include:
+Skilled in object-oriented design, memory management, automated testing, continuous integration, and complexity analysis. Practical experience includes developing container libraries in modern C++, building RESTful applications with Angular and Express.js, and conducting empirical performance analysis of algorithms.
 
-- Modern C++
-- Data Structures & Algorithms
-- Software Architecture
-- Full-Stack Development
-- Optimization & Operations Research
-- Automated Testing & CI/CD
+Particularly interested in software engineering, backend development, optimization, and performance-critical systems. Actively seeking opportunities to apply strong computer science fundamentals and engineering practices in real-world software projects.
 
 ---
 
