@@ -2,26 +2,40 @@
 
 ### Computer Science Student | Software Engineering | C++ | Full-Stack Development | Algorithms & Optimization
 
-## Professional Profile
-
-Computer Science student at the University of Łódź with a strong foundation in software engineering, data structures, algorithms, and modern C++ development. Experienced in designing and implementing custom software systems, building full-stack web applications, and developing algorithmic solutions with a focus on correctness, performance, and maintainability.
-
-Skilled in object-oriented design, memory management, automated testing, continuous integration, and complexity analysis. Practical experience includes developing container libraries in modern C++, building RESTful applications with Angular and Express.js, and conducting empirical performance analysis of algorithms.
-
-Particularly interested in software engineering, backend development, optimization, and performance-critical systems. Actively seeking opportunities to apply strong computer science fundamentals and engineering practices in real-world software projects.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Desire%20Roslin%20Dziele-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/roslindesiredziele/)
+[![GitHub](https://img.shields.io/badge/GitHub-roslindesiredziele--hash-181717?style=flat-square&logo=github)](https://github.com/roslindesiredziele-hash)
 
 ---
 
-## Technical Skills
+## Professional Profile
 
-### Languages
+Computer Science student at the University of Łódź with interests in software engineering, modern C++, optimization, and full-stack development.
+
+Experienced in designing and implementing custom data structures, building full-stack applications, and developing algorithmic solutions with a strong emphasis on correctness, maintainability, testing, and performance.
+
+Practical experience includes modern C++ development, REST API design, automated testing, continuous integration, algorithm benchmarking, and complexity analysis. Currently seeking a Software Engineering internship where strong computer science fundamentals and engineering practices can be applied to real-world systems.
+
+### Current Areas of Focus
+
+- Modern C++
+- Data Structures & Algorithms
+- Software Architecture
+- Full-Stack Development
+- Optimization & Operations Research
+- Automated Testing & CI/CD
+
+---
+
+# Technical Skills
+
+## Languages
 
 - C++
 - TypeScript
 - Python
 - SQL
 
-### Software Engineering
+## Software Engineering
 
 - Object-Oriented Programming
 - Data Structures & Algorithms
@@ -32,7 +46,7 @@ Particularly interested in software engineering, backend development, optimizati
 - Test-Driven Development
 - Software Architecture
 
-### Full-Stack Development
+## Full-Stack Development
 
 - Angular
 - Express.js
@@ -40,7 +54,7 @@ Particularly interested in software engineering, backend development, optimizati
 - SQLite
 - Client-Server Architecture
 
-### Testing & DevOps
+## Testing & DevOps
 
 - Catch2
 - Vitest
@@ -50,7 +64,7 @@ Particularly interested in software engineering, backend development, optimizati
 - GitHub Actions
 - Continuous Integration
 
-### Tools
+## Tools
 
 - Git
 - GitHub
@@ -63,30 +77,31 @@ Particularly interested in software engineering, backend development, optimizati
 
 ## 🚀 Person Management System
 
-Full-stack CRUD application developed with Angular, Express.js, SQLite, and TypeScript.
+Full-stack CRUD application built with Angular, Express.js, SQLite, and TypeScript.
 
-Designed using a client-server architecture and backed by automated testing to demonstrate practical web application development.
+Designed to explore practical software engineering through RESTful API development, database persistence, automated testing, and client-server architecture.
 
-### Key Features
+### Highlights
 
 - RESTful API design
-- Database persistence
-- Integration testing
-- Sample data generation
-- Modular architecture
+- SQLite database persistence
+- Type-safe backend development
+- Integration and API testing
+- Faker-generated development data
+- Component-based Angular frontend
+- Modular application architecture
 
 ### Technologies
 
-Angular • Express.js • SQLite • TypeScript • Vitest • Supertest
+**Angular · Express.js · SQLite · TypeScript · Vitest · Supertest**
 
-🔗 Repository  
-<https://github.com/roslindesiredziele-hash/person-management-system>
+🔗 Repository: [Person Management System](https://github.com/roslindesiredziele-hash/person-management-system)
 
 ---
 
 ## 📦 Custom Linear Containers
 
-Custom implementations of fundamental data structures developed to explore memory management, ownership semantics, container design, and testing in modern C++.
+Collection of custom container implementations developed to explore memory management, data structure design, ownership semantics, and software engineering practices in modern C++.
 
 ### Components
 
@@ -94,13 +109,14 @@ Custom implementations of fundamental data structures developed to explore memor
 
 Custom dynamic array featuring:
 
-- Dynamic capacity growth
-- Rule of Five
+- Dynamic contiguous storage
+- Automatic capacity growth
+- Rule of Five implementation
 - Deep-copy semantics
 - Move semantics
 - Iterator support
 - Search algorithms
-- Rotation and reversal algorithms
+- Reverse and rotation algorithms
 - Amortized O(1) append
 
 #### LinkedList
@@ -108,11 +124,12 @@ Custom dynamic array featuring:
 Custom linked list featuring:
 
 - Head and tail pointers
-- O(1) append and prepend
-- Rule of Five
+- O(1) append
+- O(1) prepend
 - Dynamic resizing
 - Range erase operations
-- Deep-copy and move semantics
+- Deep-copy semantics
+- Move semantics
 
 ### Engineering Highlights
 
@@ -120,96 +137,147 @@ Custom linked list featuring:
 - 160 assertions
 - CMake build system
 - GitHub Actions CI
-- Catch2 test suite
 - Release versioning
+- Catch2 test suite
+- C++17
 
 ### Technologies
 
-C++17 • CMake • Catch2 • CTest • GitHub Actions
+**C++17 · Catch2 · CMake · CTest · GitHub Actions**
 
-🔗 Repository  
-<https://github.com/roslindesiredziele-hash/Custom-Linear-Containers>
-
----
-
-## 🚚 CVRPTW
-
-Implementation of the Capacitated Vehicle Routing Problem with Time Windows (CVRPTW).
-
-This project serves as a foundation for future research and optimization-focused academic work centered on routing, scheduling, and combinatorial optimization.
-
-### Focus Areas
-
-- Vehicle routing
-- Time-window constraints
-- Capacity constraints
-- Route optimization
-- Scheduling algorithms
-
-### Technologies
-
-C++ • Optimization Algorithms
-
-🔗 Repository  
-<https://github.com/roslindesiredziele-hash/CVRPTW>
+🔗 Repository: [Custom Linear Containers](https://github.com/roslindesiredziele-hash/Custom-Linear-Containers)
 
 ---
 
 ## 📊 Algorithm Benchmarking & Analysis
 
-Collection of algorithm-focused projects emphasizing empirical performance analysis and complexity evaluation.
+Collection of projects focused on empirical algorithm analysis, runtime evaluation, benchmarking methodology, and data visualization.
+
+These projects combine theoretical complexity analysis with experimental validation.
 
 ### Topics Covered
 
-- Sorting algorithms
+- Sorting algorithm benchmarking
+- Runtime analysis
 - Pivot-selection strategies
 - Dynamic programming
 - Greedy algorithms
-- Runtime benchmarking
 - Complexity analysis
-- Data visualization
+- Performance visualization
 
 ### Technologies
 
-C++ • Python • Matplotlib
+**C++ · Python · Matplotlib**
 
 ### Repositories
 
-- <https://github.com/roslindesiredziele-hash/Algorithms-Sorting-Benchmark>
-- <https://github.com/roslindesiredziele-hash/quicksort-pivot-analysis>
-- <https://github.com/roslindesiredziele-hash/weighted-coin-change-dp>
+- [Algorithms Sorting Benchmark](https://github.com/roslindesiredziele-hash/Algorithms-Sorting-Benchmark)
+- [QuickSort Pivot Analysis](https://github.com/roslindesiredziele-hash/quicksort-pivot-analysis)
+
+---
+
+## 💳 Credit Card Record Matching
+
+Algorithm-focused project exploring alternative approaches for matching and processing large credit-card datasets.
+
+The project emphasizes empirical performance analysis and compares the practical behavior of different sorting-based strategies.
+
+### Highlights
+
+- Merge Sort implementation
+- Counting Sort implementation
+- Runtime benchmarking
+- Comparative performance analysis
+- Complexity evaluation
+- Experimental methodology
+
+### Technologies
+
+**C++ · Python · Matplotlib**
+
+🔗 Repository: [Credit Card Record Matching](https://github.com/roslindesiredziele-hash/credit-card-record-matching)
 
 ---
 
 # Additional Projects
 
-## 🌐 IPv4Address
+## 🪙 Weighted Coin Change DP
 
-Object-oriented implementation for parsing, validating, and manipulating IPv4 addresses.
+Dynamic Programming implementation solving the weighted coin change problem using efficient state transition and subproblem optimization techniques.
 
-**Tech:** C++, OOP
+**Technologies:** C++
 
-🔗 Repository  
-<https://github.com/roslindesiredziele-hash/IPv4Address>
+🔗 Repository: [Weighted Coin Change DP](https://github.com/roslindesiredziele-hash/Weighted-Coin-Change-DP)
 
 ---
 
-## 📍 CitiesDistance
+## 📅 Greedy Interval Scheduling
 
-Geographic distance calculator implementing coordinate-based distance calculations through reusable software components.
+Implementation and analysis of interval scheduling algorithms using classic greedy strategies and complexity evaluation.
 
-**Tech:** C++, OOP
+**Technologies:** C++
 
-🔗 Repository  
-<https://github.com/roslindesiredziele-hash/CitiesDistance>
+🔗 Repository: [Greedy Interval Scheduling](https://github.com/roslindesiredziele-hash/Greedy-Interval-Scheduling)
 
 ---
 
 ## 🧩 Language Evolution Simulator
 
-Object-oriented programming project exploring abstraction, inheritance, polymorphism, and virtual dispatch.
+Object-oriented simulation project exploring abstraction, inheritance, polymorphism, and virtual dispatch.
 
-**Tech:** C++, OOP, Catch2, CMake
+Designed to demonstrate core OOP concepts through a larger software model.
+
+**TechnologiesMake
+
+🔗 Repository: [Language Evolution Simulator](https://github.com/roslindesiredziele-hash/Language-Evolution-Simulator)
+
+---
+
+# Projects in Development
+
+## 📋 Kanban Board
+
+Task management platform currently under development using Angular, TypeScript, Express.js, and SQLite.
+
+The project is intended to explore frontend state management, backend API design, authentication, and full-stack application architecture.
+
+### Planned Features
+
+- Boards
+- Columns
+- Tasks
+- Drag-and-drop workflows
+- State management
+- User authentication
+- REST API integration
+
+### Technologies
+
+**Angular · Express.js · SQLite · TypeScript**
+
+---
+
+## 🚚 CVRPTW
+
+Long-term optimization project focused on the Capacitated Vehicle Routing Problem with Time Windows (CVRPTW).
+
+The repository is intended to evolve into the technical foundation for a future bachelor's thesis in routing, scheduling, and combinatorial optimization.
+
+### Planned Focus Areas
+
+- Vehicle Routing
+- Time-Window Constraints
+- Capacity Constraints
+- Route Optimization
+- Metaheuristics
+- Performance Evaluation
+- Benchmark Instance Analysis
+
+### Technologies
+
+**C++ · Optimization Algorithms**
+
+🔗 Repository: [CVRPTW](https://github.com/roslindesiredziele-hash/cvrptw)
 
 ---
 
@@ -217,10 +285,10 @@ Object-oriented programming project exploring abstraction, inheritance, polymorp
 
 - Advanced C++
 - Generic Programming
-- Design Patterns
 - Software Architecture
-- Backend Development
+- Design Patterns
 - Angular Ecosystem
+- Backend Development
 - Optimization Algorithms
 - Routing & Scheduling Problems
 
@@ -238,14 +306,18 @@ Object-oriented programming project exploring abstraction, inheritance, polymorp
 
 # Contact
 
+💼 LinkedIn
+
+[DESIRE ROSLIN DZIELE](https://www.linkedin.com/in/roslindesiredziele/)
+
 📧 Email
 
 **roslindesiredziele@gmail.com**
 
 💻 GitHub
 
-<https://github.com/roslindesiredziele-hash>
+[github.com/roslindesiredziele-hash](https://github.com/roslindesiredziele-hash)
 
 ---
 
-> “Understanding how software works internally is the best way to build software that lasts.”
+> *"Understanding how software works internally is the best way to build software that lasts."*
